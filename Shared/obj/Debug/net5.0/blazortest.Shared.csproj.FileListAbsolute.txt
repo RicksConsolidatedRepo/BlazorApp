@@ -1,0 +1,12 @@
+C:\Users\User\source\blazortest\Shared\bin\Debug\net5.0\blazortest.Shared.deps.json
+C:\Users\User\source\blazortest\Shared\bin\Debug\net5.0\blazortest.Shared.dll
+C:\Users\User\source\blazortest\Shared\bin\Debug\net5.0\ref\blazortest.Shared.dll
+C:\Users\User\source\blazortest\Shared\bin\Debug\net5.0\blazortest.Shared.pdb
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\blazortest.Shared.csprojAssemblyReference.cache
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\blazortest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\blazortest.Shared.AssemblyInfoInputs.cache
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\blazortest.Shared.AssemblyInfo.cs
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\blazortest.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\blazortest.Shared.dll
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\ref\blazortest.Shared.dll
+C:\Users\User\source\blazortest\Shared\obj\Debug\net5.0\blazortest.Shared.pdb
